@@ -38,7 +38,7 @@ Para el buen funcionamiento del thema tanto en desarrollo como el producion se r
 
 Una vez realizada la instalcacion de wordpress prodecederamos a crear una menu con el nombre de menu en done podremos añadir de forma dinamica el menu a nuestro tema,una vez realizado este proceso procederemso a intalar y activar el plugin antes mencionado.
  
-Para la instalacion rapida del tema intala el archivo [zip]() desde el menu de wordpress.
+Para la instalacion rapida del tema intala el archivo [zip](https://drive.google.com/file/d/1VD279TTlzPLioOp_dqTaTSRqIc_8UVh6/view) desde el menu de wordpress.
 
 Para la instalacion manual del tema y poder manipularlo realiza lo siguiente;
 

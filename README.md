@@ -2,7 +2,7 @@
 
 
 ## 🕹 [Demo](http://minimalheme.atwebpages.com/)
-Minimal blog es un tema para el crm wordpres el cual utiliza las tecnoligias web
+Minimal blog es un tema para el crm wordpres el cual utiliza las tecnologias web
 tales como :
 - 🧱 WebPack
 - 📦 NPM
@@ -27,7 +27,7 @@ Para el buen funcionamiento del thema tanto en desarrollo como el producion se r
  - 🐬 Mysql
  - Wordpres en su version 5.0
   
-  En wordpress se debera contar con el siguinte plugin instaldad para el buen funcionamiento del mismo:
+  En wordpress se debera contar con el siguinte plugin instaldado para el buen funcionamiento del mismo:
 - [WP-REST-API V2 Menus](https://wordpress.org/plugins/wp-rest-api-v2-menus/)
  
 
@@ -36,11 +36,11 @@ Para el buen funcionamiento del thema tanto en desarrollo como el producion se r
 
 ### Instalación 🔧
 
-Una vez realizada la instalcacion de wordpress prodecederamos a crear una menu con el nombre de menu en done podremos añadir de forma dinamica el menu a nuestro tema,una vez realizado este proceso procederemso a intalar y activar el plugin antes mencionado.
+Una vez realizada la instalcacion de wordpress prodecederamos a crear una menu con el nombre de menu en done podremos añadir de forma dinamica el menu a nuestro tema,una vez realizado este procceso procederemos a instalar y activar el plugin antes mencionado.
  
-Para la instalacion rapida del tema intala el archivo [zip](https://drive.google.com/file/d/1VD279TTlzPLioOp_dqTaTSRqIc_8UVh6/view) desde el menu de wordpress.
+Para la instalacion rapida del tema instalaremos el archivo [zip](https://drive.google.com/file/d/1VD279TTlzPLioOp_dqTaTSRqIc_8UVh6/view) desde el menu de wordpress.
 
-Para la instalacion manual del tema y poder manipularlo realiza lo siguiente;
+Para la instalacion manual del tema y poder manipularlo realizaremos lo siguiente:
 
 
 ```

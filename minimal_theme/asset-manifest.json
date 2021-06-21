@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/wp-content/themes/minimal_theme/static/css/main.chunk.css",
+    "main.js": "/wp-content/themes/minimal_theme/static/js/main.chunk.js",
+    "main.js.map": "/wp-content/themes/minimal_theme/static/js/main.chunk.js.map",
+    "runtime-main.js": "/wp-content/themes/minimal_theme/static/js/bundle.js",
+    "runtime-main.js.map": "/wp-content/themes/minimal_theme/static/js/bundle.js.map",
+    "static/js/2.chunk.js": "/wp-content/themes/minimal_theme/static/js/2.chunk.js",
+    "static/js/2.chunk.js.map": "/wp-content/themes/minimal_theme/static/js/2.chunk.js.map",
+    "index.php": "/wp-content/themes/minimal_theme/index.php",
+    "precache-manifest.df9e961afc4129df19971a58e5ac67b8.js": "/wp-content/themes/minimal_theme/precache-manifest.df9e961afc4129df19971a58e5ac67b8.js",
+    "service-worker.js": "/wp-content/themes/minimal_theme/service-worker.js",
+    "static/css/main.chunk.css.map": "/wp-content/themes/minimal_theme/static/css/main.chunk.css.map",
+    "static/js/2.chunk.js.LICENSE.txt": "/wp-content/themes/minimal_theme/static/js/2.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/wp-content/themes/minimal_theme/static/media/arrow.a8d7b5b8.svg",
+    "static/media/coffe.svg": "/wp-content/themes/minimal_theme/static/media/coffe.0822757e.svg",
+    "static/media/croods.png": "/wp-content/themes/minimal_theme/static/media/croods.a12867a9.png",
+    "static/media/image.png": "/wp-content/themes/minimal_theme/static/media/image.a10b409b.png",
+    "static/media/image1.png": "/wp-content/themes/minimal_theme/static/media/image1.1adb3d63.png",
+    "static/media/image2.png": "/wp-content/themes/minimal_theme/static/media/image2.b46a89e3.png",
+    "static/media/image3.png": "/wp-content/themes/minimal_theme/static/media/image3.7224b9d3.png",
+    "static/media/image4.png": "/wp-content/themes/minimal_theme/static/media/image4.bf9810f1.png",
+    "static/media/image5.png": "/wp-content/themes/minimal_theme/static/media/image5.e1b77500.png",
+    "static/media/instagram.svg": "/wp-content/themes/minimal_theme/static/media/instagram.978cb0a8.svg",
+    "static/media/linkedin.svg": "/wp-content/themes/minimal_theme/static/media/linkedin.ba5a7fa4.svg",
+    "static/media/search.svg": "/wp-content/themes/minimal_theme/static/media/search.c89b61c4.svg",
+    "static/media/twitter.svg": "/wp-content/themes/minimal_theme/static/media/twitter.ab78185b.svg"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/js/2.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}

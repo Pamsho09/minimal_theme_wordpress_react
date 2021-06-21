@@ -1,0 +1,61 @@
+@import "../utilities/variables";
+@import "../base/typo";
+
+
+@media (max-width: 850px) {
+  .SectionPosts {
+    margin: 11px;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    column-gap: 33px;
+    row-gap:43px
+  }
+}
+@media (min-width: 850.1px) {
+  .SectionPosts {
+    display: grid;
+    margin: 93px;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 33px;
+    row-gap:43px;
+  }
+}
+
+.SectionPosts-next{
+  width: 100%;
+  grid-column:3/4;
+  display: flex;align-items: center;
+  justify-content:flex-end;
+  a{
+    text-decoration: none;
+list-style: none;
+  }
+.next-button{
+background-color: $button-color-primary;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+border-radius: 5px;
+border:none;
+display:flex;
+justify-content:space-between;
+align-items:center;
+gap:2.5px;
+color: #FFFFFF;
+padding: 9px 11px;
+
+}
+
+}
+
+@media (max-width: 850px){.SectionPosts-next{
+  width: 100%;
+  grid-column:3/4;
+  display: flex;align-items: center;
+  justify-content:center;
+}
+
+}

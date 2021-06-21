@@ -1,0 +1,3 @@
+The theme named "minimal_theme" is ready to deploy to your production server.
+
+If you need to continue developing your theme, simply change to the "react-src" folder and type the command: npm run start

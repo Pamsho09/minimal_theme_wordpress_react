@@ -1,0 +1,26 @@
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    height:75px;
+    align-items:center;
+    border-top: 1px solid #E8E8E8;
+    padding:0 35px; 
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+.footer-container{
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:35px;
+}
+.footer-copy{
+    color:#000;
+}
+
+@media(max-width: 850px){
+    .footer{
+        justify-content:center;
+    }
+}

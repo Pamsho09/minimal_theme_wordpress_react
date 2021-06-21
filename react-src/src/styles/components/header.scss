@@ -1,0 +1,115 @@
+@import "../utilities/variables";
+@import "../base/typo";
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  a{
+    list-style: none;
+    color: #000;
+    text-decoration: none;
+  }
+}
+.Header_title {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.Header_container-search {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .container_search-input {
+    border: none;
+    outline: none;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: $input-color-text;
+    &::placeholder {
+      font-size: 16px;
+      line-height: 19px;
+      color: $input-color-text;
+      font-weight: 400;
+      font-family: "Inter", sans-serif;
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .Header {
+    padding: 10px;
+  }
+  .container_search-input {
+    margin: 5px;
+  }
+  .Header_container-navbar {
+    position: fixed;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.25);
+    bottom: 30px;
+    right: 30px;
+    display: grid; 
+    background:#fff;
+    place-items: center;
+
+    .container_navbar-icon {
+      margin: auto;
+      padding: 1px;
+      width: 30px;
+      height: 30px;
+    }
+
+    .container_navbar-list-inactive {
+      display: none;
+    }
+    .container_navbar-list-active {
+      position: absolute;
+      bottom: 60px;
+      left: 0;
+      display: grid;
+      
+
+      gap: 2em;
+      list-style: none;
+      width: 30px;
+      padding: 0;
+      div{
+        background-color: #fff;
+        padding:2px;
+        box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 4px;
+      }
+      
+    }
+  }
+}
+@media (min-width: 450.1px) {
+  .container_search-input {
+    margin: 13px;
+  }
+  .Header {
+    padding: 16px 83px;
+  }
+  .Header_container-navbar {
+    .container_navbar-icon {
+      display: none;
+    }
+    .container_navbar-list-inactive,
+    .container_navbar-list-active {
+      display: flex;
+      justify-content: flex-end;
+      gap: 2em;
+      list-style: none;
+      width: 30px;
+
+      li,
+      a {
+        font-size: 16px;
+      }
+    }
+  }
+}

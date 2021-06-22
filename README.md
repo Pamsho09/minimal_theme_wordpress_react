@@ -2,7 +2,7 @@
 
 
 ## 🕹 [Demo](http://minimalheme.atwebpages.com/)
-Minimal blog es un tema para el crm wordpres el cual utiliza las tecnologias web
+Minimal blog es un tema para el crm wordpress el cual utiliza las tecnologias web
 tales como :
 - 🧱 WebPack
 - 📦 NPM
